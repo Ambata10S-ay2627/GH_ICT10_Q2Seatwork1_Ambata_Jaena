@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    color: blanchedalmond;
+}
+
+h3{
+    color: teal;
+}
+
+h4{
+    text-align: center;
+    color: blanchedalmond;
+}
+
+h5{
+    color: teal;
+}
+
+#output{
+    background-image: url(https://i.pinimg.com/1200x/1b/18/13/1b1813705173da8b97dd33fe3c9747e3.jpg);
+
+}
+
+#form{
+    background-image: url(https://i.pinimg.com/736x/5c/0f/d6/5c0fd6d7194e655b915ba7a0e1fe4835.jpg);
+    width: 500px;
+    text-align: center;
+    margin-left: 400px;
+}
+
+body{
+    background-color:	#eddecb;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+footer{
+    background-image: url(https://i.pinimg.com/1200x/1b/18/13/1b1813705173da8b97dd33fe3c9747e3.jpg);
+}
