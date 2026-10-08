@@ -1,17 +1,12 @@
+body{
+    background-image: url(https://i.pinimg.com/1200x/58/6b/37/586b377f65764fb1b49dd1cf324c093d.jpg);
+}
+
 h2{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 20px;
-    color: blanchedalmond;
-}
-
-h3{
-    color: teal;
-}
-
-h4{
-    text-align: center;
-    color: blanchedalmond;
+    color: lightsalmon;
 }
 
 h5{
@@ -19,7 +14,10 @@ h5{
 }
 
 #output{
-    background-image: url(https://i.pinimg.com/1200x/1b/18/13/1b1813705173da8b97dd33fe3c9747e3.jpg);
+    background-color: bisque;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 500px;
 
 }
 
@@ -37,5 +35,5 @@ body{
 }
 
 footer{
-    background-image: url(https://i.pinimg.com/1200x/1b/18/13/1b1813705173da8b97dd33fe3c9747e3.jpg);
+    background-image: url(https://i.pinimg.com/1200x/c8/af/70/c8af70a1bec5d8469a7543ae4e1fef3a.jpg);
 }
