@@ -3,7 +3,7 @@
 from pyscript import display, document
 
 def reveal_name(e):
-    nickname = document.getElementById("southeast_asia")
-    southeast_asia = str(nickname).value
+    nickname = document.getElementById("sea")
+    sea = nickname.value
 
-    display(f'The nickname of this Southeast Asian country is "{southeast_asia}"', target='output')
+    display(f'The nickname of this Southeast Asian country is "{sea}"', target='present', append=False)
